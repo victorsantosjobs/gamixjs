@@ -3,8 +3,8 @@
 
 
 
- 
- GAMIX JS  improve your habilities to build a web game.
+
+ GAMIX JS helps you to improve your habilities to build a web game.
  
  
   ____    _    __  __ _____  __      _ ____  
