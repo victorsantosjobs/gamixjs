@@ -1,3 +1,7 @@
+ 
+ GAMIX JS  improve your habilities to build a web game.
+ 
+ 
   ____    _    __  __ _____  __      _ ____  
  / ___|  / \  |  \/  |_ _\ \/ /     | / ___| 
 | |  _  / _ \ | |\/| || | \  /   _  | \___ \ 
@@ -5,4 +9,3 @@
  \____/_/   \_\_|  |_|___/_/\_\  \___/|____/ 
                                              
 
-GAMIX JS  improve your habilities to build a web game.
