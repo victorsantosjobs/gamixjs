@@ -1,3 +1,8 @@
+ ![Alt text](<gamixjs.png>)
+
+
+
+
  
  GAMIX JS  improve your habilities to build a web game.
  
@@ -9,4 +14,3 @@
  \____/_/   \_\_|  |_|___/_/\_\  \___/|____/ 
                                              
 
-![Alt text](<gamixjs.png>)
