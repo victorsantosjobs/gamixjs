@@ -1,0 +1,58 @@
+
+CSS
+
+
+
+
+#CSS utilities
+
+
+
+
+/* JUMP */
+
+
+/* Normal state of the object */
+.box{
+background-color: blue;
+height: 50px;
+width: 50px;
+top: 90%;
+position: fixed;
+border-color: black;
+border-radius: 3px;
+left: 90%;
+
+
+}
+
+/* State of the jump when clieckd of the object */
+
+.box:active{
+   
+    height: 50px;
+    width: 50px;
+    border-color: black;
+    
+    
+    animation: pulo 1s ease-in-out;
+    
+ 
+    }
+
+@keyframes pulo {
+       
+        0% {transform: translateY(0px);
+        }
+
+        50% {transform: translateY(-200px);
+        }
+
+        100% {transform: translateY(0px);
+        }
+    }
+    
+
+    
+
+
